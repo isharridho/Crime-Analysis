@@ -1,4 +1,5 @@
 # Crime-Analysis
-Crime Analysis in United States of America 
-Clustering using Elbow Method and Silhouette Score.
-PCA for Visualization
+
+Crime rates in the United States have been recorded since its founding. They have varied over time, with a sharp rise after 1900 and reaching a broad bulging peak between the 1970s and early 1990s. After 1992, crime rates began to fall year by year and have since declined significantly. This trend lasted until 2015, where crime rates began to rise slightly. This reversed in 2018 and 2019, but violent crime increased significantly again in 2020. Despite the increase in violent crime, particularly murders, between 2020 and 2021, the quantity of overall crime is still far below the peak of crime seen in the United States during the late 1980s and early 1990s, as other crimes such as rape, property crime and robbery continued to decline. The aggregate cost of crime in the United States remains high, with an estimated value of $4.9 trillion reported in 2021.
+
+This notebook try to clustering crime action in USA in 2021, Clustering using Elbow Method and Silhouette Score and PCA for Visualization
